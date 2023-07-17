@@ -1,4 +1,6 @@
-[![MasterHead](https://github.com/HinYong1031/HinYong1031/blob/main/assets/header.gif)]
+<p align="center">
+  <img src="https://github.com/HinYong1031/HinYong1031/blob/main/assets/header.gif" alt="MasterHead">
+</p>
 <h1 align="center">Hi 👋, I'm Voon Hin Yong</h1>
 <h3 align="center">I am a student who is currently studying Bachelor of Software Engineering.</h3>
 
