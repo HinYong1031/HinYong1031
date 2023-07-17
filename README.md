@@ -24,6 +24,6 @@
 <div>
 <p><img align="left" width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=HinYong1031&show_icons=true&locale=en&layout=compact" alt="hinyong1031" /></p>
 
-<p>&nbsp;<img align="center" width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HinYong1031&show_icons=true&locale=en" alt="hinyong1031" /></p>
+<p>&nbsp;<img align="center" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HinYong1031&show_icons=true&locale=en" alt="hinyong1031" /></p>
 
 </div>
