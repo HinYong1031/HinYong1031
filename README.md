@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Voon Hin Yong</h1>
 <h3 align="center">I am a student who is currently studying Bachelor of Software Engineering.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HinYong1031&label=Profile%20views&color=0e75b6&style=flat" alt="hinyong1031" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HinYong1031&style=flat&color=brightgreen" alt="hinyong1031" /> </p>
 
 - 🔭 I’m currently working on **Crowd Detection System**
 
