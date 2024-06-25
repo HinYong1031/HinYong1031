@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HinYong1031&style=flat&color=brightgreen" alt="hinyong1031" /> </p>
 
-- 🔭 I’m currently working on **Crowd Detection System**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently learning **ReactJs, ExpressJs, PHP**
 
 - 📫 How to reach me **hinyong16@gmail.com**
 
