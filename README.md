@@ -3,14 +3,13 @@
 </p>
 
 <p align="center">Hi 👋, I'm Voon Hin Yong</p>
-<p align="center">I am a student who is currently studying Bachelor of Software Engineering.</p>
+<p align="center">🎓 Software Engineer with a Bachelor's degree in Software Engineering.</p>
 
-- 🔭 I’m currently working on **-**
-
-- 🌱 I’m currently learning **ReactJs, ExpressJs, PHP**
-
+- 💻 Passionate about building efficient, scalable, and user-friendly software solutions.
+- 🔭 I’m currently working on **full-stack development.**
+- 🌱 I’m currently learning and exploring **ReactJs, ExpressJs, PHP and Docker.**
+- 🚀 Always eager to learn, grow, and collaborate on exciting projects.
 - 📫 How to reach me **hinyong16@gmail.com**
-
 - ⚡ Fun fact **I can't code without listening to music.**
 
 
